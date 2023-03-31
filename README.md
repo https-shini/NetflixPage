@@ -24,6 +24,12 @@ O código HTML junto do CSS formam uma página da web básica que exibe o logoti
 
 No entanto, a página é bastante simples e não inclui nenhum outro conteúdo além do logotipo. Para criar uma página mais completa e funcional, seria necessário adicionar mais elementos HTML e estilos CSS, bem como adicionar interatividade com JavaScript.
 
+## ☆ Layout
+
+Você pode visualizar o layout do projeto e como ele funciona através do video abaixo.<br>
+
+![image](https://user-images.githubusercontent.com/100307080/229036975-3e2d4245-f83b-4c46-baa7-a48af6aca3d7.png)
+
 ## ☆ Licença
 
 Esse projeto está sob a licença MIT.
