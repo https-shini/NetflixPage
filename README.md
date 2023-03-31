@@ -26,7 +26,7 @@ No entanto, a página é bastante simples e não inclui nenhum outro conteúdo a
 
 ## ☆ Layout
 
-Você pode visualizar o layout do projeto e como ele funciona através do video abaixo.<br>
+Você pode visualizar o layout do projeto através da foto abaixo.<br>
 
 ![image](https://user-images.githubusercontent.com/100307080/229036975-3e2d4245-f83b-4c46-baa7-a48af6aca3d7.png)
 
